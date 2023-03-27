@@ -7,5 +7,5 @@ number: adds an integer to the stack. Numbers can be seperated by a comma, or an
 \+ : Removes the top two items from the stack, and pushes their sum to the top.  
 \+\+ : Pushes the sum of the top to values to the stack without removing them.   
 \- : Removes the top two items from the stack, and pushes the second value from the top minus the top value.
-\-\- : Same as \+\+, except the difference is pushed.
+\-\- : Same as \+\+, except the difference is pushed.   
 \* , \*\* , / , // , % , %% : Multiply, multiply and push; divide, divide and push; modulo, modulo and push. Each follows the same pattern as the preceding operators.
